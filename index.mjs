@@ -1,1 +1,1 @@
-import { Opik } from "opik";
+import "opik";
